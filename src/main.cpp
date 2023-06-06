@@ -3,8 +3,8 @@
 #include <WebServer.h>
 
 // SSID & Password
-const char* ssid = "*****";  // Enter your SSID here
-const char* password = "*****";  //Enter your Password here
+const char* ssid = "iPhone de Guillem (2)";  // Enter your SSID here
+const char* password = "abcdefghi";  //Enter your Password here
 
 WebServer server(80);  // Object of WebServer(HTTP port, 80 is defult)
 
